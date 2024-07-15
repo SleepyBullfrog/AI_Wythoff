@@ -6,6 +6,10 @@ Le projet consiste tout d'abord à entrainer un premier ordinateur (ordinateur I
 
 Celui qui nous intéresse le plus est le troisième mode de jeu qui consiste à entrainer par renforcement un deuxième ordinateur (ordinateur II) façe à l'ordinateur I jusqu'à que l'ordinateur II soit tout aussi efficace que l'ordinateur I, c'est-à-dire lorsque les deux ordinateurs ont une chance égale de gagner la partie.
 
+## Prérequis (logiciels)
+
+- Jupyter Notebook
+
 ## Prérequis (librairies)
 
 - random
